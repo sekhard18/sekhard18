@@ -46,3 +46,6 @@ Siempre hay algo nuevo por aprender o un proyecto interesante en mente. Este per
 ---
 
 **(Opcional: Sección de Contacto)**
+
+Email: sekhard.dev@outlook.com
+
