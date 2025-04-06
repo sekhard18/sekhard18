@@ -1,56 +1,48 @@
-# 👋 ¡Hola! Soy Joaquín (Sekhard)
+# 👋 ¡Hola! Soy Joaquín (o Sekhard, como prefieras!)
+
+**👨‍💻 Analista Programador | Full-Stack Developer | Valdivia, Chile 🇨🇱**
 
 ---
 
-**👨‍💻 Analista Programador | Desarrollador Web | Valdivia, Chile 🇨🇱**
+¡Bienvenid@ a mi espacio en GitHub! Soy un desarrollador Full-Stack, pero si soy honesto, mi corazón está con el **Frontend** ❤️. Me apasiona construir **interfaces bonitas**, poner foco en mejorar la **Experiencia de Usuario (UX)** y todo lo que hace que la interacción con una aplicación sea agradable y fluida (jiji).
 
-Soy un desarrollador web con base en la hermosa Valdivia. Me muevo en el espectro **Full-Stack**, pero siento una conexión especial con el **Frontend**, donde disfruto transformando ideas en interfaces de usuario intuitivas, limpias y funcionales. ✨
-
----
-
-### 🎯 Enfoque Principal y Tecnologías Clave
-
-Actualmente dedico gran parte de mi tiempo a profundizar y construir con:
-
-* **React:** Creando componentes dinámicos y experiencias de usuario modernas.
-* **JavaScript & TypeScript:** Fortaleciendo la base y aprovechando el tipado estático para proyectos más robustos.
-
-Mi caja de herramientas también incluye experiencia con:
-
-* **Backend:** Node.js (principalmente con **Express.js**, explorando **Nest.js**) y **PHP**.
-* **Fundamentos Web:** HTML5, CSS3.
-* **Control de Versiones:** Git y GitHub.
-* *(Opcional: Añade Bases de Datos u otras herramientas relevantes aquí, ej: PostgreSQL, Docker, Jest)*
+Claro que también me muevo por el **Backend**, ¡no todo es lo que se ve en el cliente! (jeje 😉).
 
 ---
 
-### 👨‍🏫 Pasión por la Enseñanza y el Aprendizaje Continuo
+### 🚀 Tecnologías y Enfoque Actual
 
-Más allá de escribir código, me apasiona **compartir conocimiento**. Encuentro una gran satisfacción en explicar conceptos de programación y creo firmemente en el aprendizaje colaborativo. Aspiro a poder dedicar parte de mi tiempo profesional a la **formación de nuevos talentos** en el futuro. La tecnología avanza rápido, ¡y me encanta estar en ese viaje constante de aprendizaje!
+Estoy constantemente aprendiendo y construyendo. Ahora mismo, estoy **metido de lleno** en el ecosistema **JavaScript/TypeScript**, con un cariño especial por:
 
----
+* **⚛️ React:** Mi librería principal para el desarrollo Frontend.
+* 🚀 **Explorando y Disfrutando:** Me **encanta** trabajar con **Astro** y estoy profundizando mis conocimientos en **Next.js**.
+* 🔮 **Mirando al Futuro:** Tengo planes de sumergirme en **Angular** más adelante.
 
-### 💡 Proyectos y Exploraciones
+**Del lado del Backend, mi experiencia incluye:**
 
-Este espacio en GitHub es mi bitácora digital. Aquí encontrarás:
+* ⚫️ **Node.js:** Principalmente con **Express.js**, y actualmente explorando las bondades de **NestJS**.
+* ☕️ **Java:** Cuento con bases sólidas y he trabajado con **Spring Boot**.
+* <0xF0><0x9F><0xAA><0x9A> **.NET:** Durante mi práctica profesional, desarrollé aplicaciones web MVC usando **ASP.NET Core 6**. ¡Una experiencia muy valiosa!
 
-* Proyectos personales donde experimento con nuevas tecnologías.
-* Ejercicios y pruebas de concepto.
-* *(Opcional: Si tienes algún repositorio destacado, puedes mencionarlo)*
-    * `[NombreRepoDestacado](URL_AL_REPO)`: Una breve descripción de lo que hace.
+**Y en Bases de Datos:**
 
-Te invito a explorar los repositorios si tienes curiosidad sobre mi trabajo o si buscas inspiración.
-
----
-
-### 📫 Conectemos
-
-Siempre estoy abierto a charlar sobre tecnología, desarrollo web, posibles colaboraciones o simplemente intercambiar ideas.
-
-* **LinkedIn:** `[Tu Nombre / Perfil](URL_DE_TU_LINKEDIN)`
-* **(Opcional) Portfolio Personal:** `[tuportfolio.com](URL_DE_TU_PORTFOLIO)`
-* **(Opcional) Email:** `tu_correo [at] ejemplo.com`
+* 🐘 PostgreSQL | 🐬 MySQL | 🗄️ SQL Server
 
 ---
 
-¡Gracias por visitar mi perfil! 😊
+### 👨‍🏫 Sueño con Enseñar
+
+Más allá del teclado, tengo una gran aspiración: **¡enseñar programación!** 👨‍🏫 Me encantaría poder **aportar mis conocimientos para formar futuros talentos** en el mundo del desarrollo. Compartir la pasión por crear y resolver problemas con código es algo que me motiva enormemente :)))
+
+---
+
+### ✨ ... y más cositas :)
+
+Siempre hay algo nuevo por aprender o un proyecto interesante en mente. Este perfil es una ventana a mi viaje en el desarrollo. ¡Gracias por pasarte!
+
+* No dudes en **explorar mis repositorios** para ver en qué ando trabajando.
+* Si quieres conectar, ¡genial! (Puedes añadir tu LinkedIn abajo).
+
+---
+
+**(Opcional: Sección de Contacto)**
