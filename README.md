@@ -1,7 +1,4 @@
-# 👋 ¡Hola! Soy Joaquín (aka Sekhard)
-
-[![Visitas al Perfil](https://komarev.com/ghpvc/?username=sekhard18&label=Visitas%20al%20Perfil&color=blueviolet&style=flat-square)](https://github.com/TU_USUARIO_DE_GITHUB)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sekhard18&label=Profile%20views&color=0e75b6&style=flat" alt="tu-usuario-de-github" /> </p>
+# 👋 ¡Hola! Soy Joaquín (Conocido como Sekhard)
 
 ¡Bienvenid@ a mi rincón en GitHub! Soy Analista Programador desde la hermosa ciudad de **Valdivia, Chile 🇨🇱**.
 
