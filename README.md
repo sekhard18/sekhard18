@@ -1,53 +1,56 @@
-# 👋 ¡Hola! Soy Joaquín (Conocido como Sekhard)
-
-¡Bienvenid@ a mi rincón en GitHub! Soy Analista Programador desde la hermosa ciudad de **Valdivia, Chile 🇨🇱**.
-
-Me apasiona el desarrollo web y me considero un **Desarrollador Full-Stack**, aunque tengo un cariño especial por el **Frontend ✨** (¡lo admito! jijiji). Disfruto creando interfaces de usuario interactivas y funcionales.
+# 👋 ¡Hola! Soy Joaquín (Sekhard)
 
 ---
 
-### 🚀 Tecnologías y Herramientas
+**👨‍💻 Analista Programador | Desarrollador Web | Valdivia, Chile 🇨🇱**
 
-Aquí hay un vistazo a las tecnologías con las que he trabajado y en las que me estoy enfocando:
-
-* **Frontend:** <0xF0><0x9F><0x9A><0x80> React | 🌐 JavaScript | 🔷 TypeScript | 📄 HTML5 | 🎨 CSS3
-* **Backend:** ⚫ Express.js | 둥 Nest.js | 🐘 PHP (¡un clásico!)
-* **Bases de Datos:** (Si manejas alguna, ej: PostgreSQL, MySQL, MongoDB)
-* **Herramientas:** 🔧 Git | 🐙 GitHub | 🐳 Docker (si lo usas) | 🧪 Jest (si haces testing)
+Soy un desarrollador web con base en la hermosa Valdivia. Me muevo en el espectro **Full-Stack**, pero siento una conexión especial con el **Frontend**, donde disfruto transformando ideas en interfaces de usuario intuitivas, limpias y funcionales. ✨
 
 ---
 
-### 🌱 Actualmente Aprendiendo y Profundizando
+### 🎯 Enfoque Principal y Tecnologías Clave
 
-Siempre hay algo nuevo por aprender. Ahora mismo estoy 100% enfocado en:
+Actualmente dedico gran parte de mi tiempo a profundizar y construir con:
 
-* Dominar **JavaScript** y **TypeScript** a fondo.
-* Convertirme en un experto en **React** y su ecosistema (State Management, Routing, etc.).
-* Explorando más sobre **Nest.js** para fortalecer el backend.
+* **React:** Creando componentes dinámicos y experiencias de usuario modernas.
+* **JavaScript & TypeScript:** Fortaleciendo la base y aprovechando el tipado estático para proyectos más robustos.
 
----
+Mi caja de herramientas también incluye experiencia con:
 
-### 👨‍🏫 Pasión por Enseñar
-
-Además de programar, ¡me encanta enseñar! (solo un poco... jajaja 😉). Explicar conceptos de programación y ver cómo otros aprenden es algo que disfruto enormemente. Mi meta a futuro es poder combinar mi experiencia técnica con la docencia. ¡Espero algún día tener la oportunidad de ser profe!
-
----
-
-### 🎯 Mis Proyectos
-
-¡Siéntete libre de explorar mis repositorios! Encontrarás desde pequeños experimentos hasta proyectos más elaborados. Siempre estoy trabajando en algo nuevo.
-
-[![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/TU_USUARIO_DE_GITHUB)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical&hide_border=true)](https://github.com/TU_USUARIO_DE_GITHUB)
----
-
-### 📫 ¿Conectamos?
-
-(Opcional: Añade aquí enlaces a tu LinkedIn, Twitter, Portfolio personal, etc.)
-
-* **LinkedIn:** [Tu Nombre](URL_DE_TU_LINKEDIN)
-* **Portfolio:** (URL si tienes uno)
+* **Backend:** Node.js (principalmente con **Express.js**, explorando **Nest.js**) y **PHP**.
+* **Fundamentos Web:** HTML5, CSS3.
+* **Control de Versiones:** Git y GitHub.
+* *(Opcional: Añade Bases de Datos u otras herramientas relevantes aquí, ej: PostgreSQL, Docker, Jest)*
 
 ---
 
-¡Gracias por visitar mi perfil! Saludos desde el sur de Chile. 😊
+### 👨‍🏫 Pasión por la Enseñanza y el Aprendizaje Continuo
+
+Más allá de escribir código, me apasiona **compartir conocimiento**. Encuentro una gran satisfacción en explicar conceptos de programación y creo firmemente en el aprendizaje colaborativo. Aspiro a poder dedicar parte de mi tiempo profesional a la **formación de nuevos talentos** en el futuro. La tecnología avanza rápido, ¡y me encanta estar en ese viaje constante de aprendizaje!
+
+---
+
+### 💡 Proyectos y Exploraciones
+
+Este espacio en GitHub es mi bitácora digital. Aquí encontrarás:
+
+* Proyectos personales donde experimento con nuevas tecnologías.
+* Ejercicios y pruebas de concepto.
+* *(Opcional: Si tienes algún repositorio destacado, puedes mencionarlo)*
+    * `[NombreRepoDestacado](URL_AL_REPO)`: Una breve descripción de lo que hace.
+
+Te invito a explorar los repositorios si tienes curiosidad sobre mi trabajo o si buscas inspiración.
+
+---
+
+### 📫 Conectemos
+
+Siempre estoy abierto a charlar sobre tecnología, desarrollo web, posibles colaboraciones o simplemente intercambiar ideas.
+
+* **LinkedIn:** `[Tu Nombre / Perfil](URL_DE_TU_LINKEDIN)`
+* **(Opcional) Portfolio Personal:** `[tuportfolio.com](URL_DE_TU_PORTFOLIO)`
+* **(Opcional) Email:** `tu_correo [at] ejemplo.com`
+
+---
+
+¡Gracias por visitar mi perfil! 😊
