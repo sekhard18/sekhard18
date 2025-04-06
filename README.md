@@ -22,7 +22,7 @@ Estoy constantemente aprendiendo y construyendo. Ahora mismo, estoy **metido de 
 
 * ⚫️ **Node.js:** Principalmente con **Express.js**, y actualmente explorando las bondades de **NestJS**.
 * ☕️ **Java:** Cuento con bases sólidas y he trabajado con **Spring Boot**.
-* <0xF0><0x9F><0xAA><0x9A> **.NET:** Durante mi práctica profesional, desarrollé aplicaciones web MVC usando **ASP.NET Core 6**. ¡Una experiencia muy valiosa!
+* 🪟 **.NET:** Trabajé con **ASP.NET Core 6 MVC** durante mi práctica profesional. ¡Una experiencia muy valiosa!
 
 **Y en Bases de Datos:**
 
